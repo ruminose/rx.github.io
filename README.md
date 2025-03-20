@@ -1,2 +1,2 @@
-# rx.github.io
+# rxtt.github.io
 web for super user
